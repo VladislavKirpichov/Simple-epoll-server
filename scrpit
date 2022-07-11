@@ -1,6 +1,0 @@
-#!/bin/zsh
-# shellcheck disable=SC2034
-for i in {1,100}
-do
-python client.py
-done
